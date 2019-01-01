@@ -1,10 +1,5 @@
-#ifndef MAIN
-#define MAIN
-
-#include "RemoteControl.h"
+#include "RemoteControlServer.h"
 
 int main() {
-	
+	RemoteControlServer server = RemoteControlServer();
 }
-
-#endif // !REMOTE_CONTROL_SERVR
