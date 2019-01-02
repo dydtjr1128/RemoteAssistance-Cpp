@@ -12,7 +12,7 @@
 // size of our buffer
 #define DEFAULT_BUFLEN 512
 // port to connect sockets through 
-#define DEFAULT_PORT "10004"
+#define DEFAULT_PORT "80"
 
 class RemoteControlServer {
 public:

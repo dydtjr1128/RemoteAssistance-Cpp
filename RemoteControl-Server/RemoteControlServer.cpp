@@ -85,7 +85,7 @@ RemoteControlServer::RemoteControlServer()
 			getsockname(ClientSocket, (SOCKADDR *)&clientInfo, &clientLen);// 서버의 소켓의 정보 가져온다.
 			std::cout << "Sock Info: " << inet_ntoa(clientInfo.sin_addr) << " " << ntohs(clientInfo.sin_port) << "\n";//포트의경우 상대측이 사용하는 포트(접속한 포트가 아니라)
 			getpeername(ClientSocket, (SOCKADDR *)&clientInfo, &clientLen);// peer, client, 상대측의 소켓 정보 가져온다.
-			std::cout << "Peer Info: " << inet_ntoa(clientInfo.sin_addr) << " " << ntohs(clientInfo.sin_port) << "\n";//포트의경우 상대측이 사용하는 포트(접속한 포트가 아니라)
+			std::cout << "Peer Info: " << inet_ntoa(clientInfo.sin_addr) << " " << ntohs(clientInfo.sin_port) << "\n";
 
 			// Echo the buffer back to the sender
 			iSendResult = send(ClientSocket, recvbuf, iResult, 0);
