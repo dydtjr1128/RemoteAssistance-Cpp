@@ -4,13 +4,16 @@ RemoteControl like TeamViewer C++ version
 
 ## ToDo
 
-
 <p>
   <ul> 
+    <li>- [x] Screen capture</li>    
     <li>- [ ] Add image compress(JPEG)</li>    
     <li>- [ ] Add network code(socket)</li>
   </ul>
 </p>
+
+## sample
+![gif6](https://user-images.githubusercontent.com/19161231/50547144-9a3f6c00-0c77-11e9-90c4-f5cca7644c9b.gif)
 
 
 
