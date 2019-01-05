@@ -18,6 +18,13 @@ RemoteControl like TeamViewer C++ version
 ![gif6](https://user-images.githubusercontent.com/19161231/50547144-9a3f6c00-0c77-11e9-90c4-f5cca7644c9b.gif)
 
 
+## 이미지 전송 알고리즘 구상 방안
+
+<p>
+  <img src="https://user-images.githubusercontent.com/19161231/48710631-5440c280-ec4c-11e8-9808-39203fa8d10b.png" width="50%">
+</p>
+
+
 
 </br> 
 <a href="mailto:dydtjr1994@gmail.com" target="_blank">
