@@ -23,7 +23,7 @@ RemoteControl like TeamViewer C++ version
 <p>
   <img src="https://user-images.githubusercontent.com/19161231/48710631-5440c280-ec4c-11e8-9808-39203fa8d10b.png" width="50%">
 </p>
-
+이 경우 비교 방법 등도 고려 해야함 (SIMD 등 사용?)
 
 
 </br> 
