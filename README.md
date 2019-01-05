@@ -12,7 +12,7 @@ RemoteControl like TeamViewer C++ version
   </ul>
 </p>
 
-## sample
+## Sample
 ![gif6](https://user-images.githubusercontent.com/19161231/50547144-9a3f6c00-0c77-11e9-90c4-f5cca7644c9b.gif)
 
 
