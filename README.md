@@ -11,6 +11,7 @@ RemoteControl like TeamViewer C++ version
     <li>- [ ] Add network code(socket)</li>
     <li>- [ ] 변경데이터 전송 알고리즘 구상</li>
     <li>- [ ] 지속적인 성능 최적화(필수!!)</li>
+    <li>- [ ] SIMD compare </li>
   </ul>
 </p>
 
