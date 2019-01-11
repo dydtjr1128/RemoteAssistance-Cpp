@@ -7,6 +7,7 @@ RemoteControl like TeamViewer C++ version
 <p>
   <ul> 
     <li>- [x] Screen capture</li>    
+    <li>- [x] Double buffering</li>
     <li>- [ ] Add image compress(JPEG)</li>    
     <li>- [ ] Add network code(socket)</li>
     <li>- [ ] 변경데이터 전송 알고리즘 구상</li>
