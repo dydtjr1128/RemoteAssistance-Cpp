@@ -20,6 +20,14 @@ RemoteControl like TeamViewer C++ version
 ![gif6](https://user-images.githubusercontent.com/19161231/50547144-9a3f6c00-0c77-11e9-90c4-f5cca7644c9b.gif)
 
 
+## Structure
+<pre>
+Client <-> Broker server(Session) <-> Client
+  ↑                                     ↑
+  └─────────────────────────────────────┘
+                Data send
+</pre>
+
 ## 이미지 전송 알고리즘 구상 방안
 
 <p>
