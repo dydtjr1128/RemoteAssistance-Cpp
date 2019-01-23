@@ -14,7 +14,7 @@ https://dydtjr1128.github.io/RemoteControl-Cpp/
     <li>- [ ] 변경데이터 전송 알고리즘 구상</li>
     <li>- [ ] 지속적인 성능 최적화(필수!!)</li>
     <li>- [ ] SIMD compare </li>
-    <li>- [ ] ★현재 CPU로 연산하여 이미지를 얻지만 OpenGL기반으로 gpu를 이용하여  </li>
+    <li>- [ ] ★현재 CPU로 연산하여 이미지를 얻지만 OpenGL기반으로 gpu를 이용하여   </li>
   </ul>
 </p>
 
