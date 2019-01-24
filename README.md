@@ -1,7 +1,7 @@
-# RemoteControl-Cpp
-RemoteControl like TeamViewer C++ version
+# RemoteAssistance-Cpp
+RemoteAssistance like TeamViewer C++ version
 
-https://dydtjr1128.github.io/RemoteControl-Cpp/
+https://dydtjr1128.github.io/RemoteAssistance-Cpp/
 
 ## ToDo
 
