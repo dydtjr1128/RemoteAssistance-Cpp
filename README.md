@@ -29,8 +29,9 @@ Client <-> Broker server(Session) <-> Client
   └─────────────────────────────────────┘
                 Data send
 </pre>
-중개 서버는 세션 유지 및 로그인만 담당하고 클라이언트간 통신하는 방향으로 구상중...
-중개서버에서 연결된 클라이언트들 
+
+![image](https://user-images.githubusercontent.com/19161231/54978008-58a62f00-4fe2-11e9-9d9a-df5b42e840ca.png)
+![image](https://user-images.githubusercontent.com/19161231/54977978-3d3b2400-4fe2-11e9-808a-08f9a3d4cad9.png)
 
 ## 이미지 전송 알고리즘 구상 방안
 
@@ -38,6 +39,8 @@ Client <-> Broker server(Session) <-> Client
   <img src="https://user-images.githubusercontent.com/19161231/48710631-5440c280-ec4c-11e8-9808-39203fa8d10b.png" width="50%">
 </p>
 이 경우 비교 방법 등도 고려 해야함 (SIMD 등 사용?)
+
+
 
 
 </br> 
