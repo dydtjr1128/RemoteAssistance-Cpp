@@ -12,16 +12,15 @@ It also made java swing version => [Link](https://github.com/dydtjr1128/RemoteAs
   <ul> 
     <li>- [x] Screen capture</li>    
     <li>- [x] Double buffering</li>
-    <li>- [ ] Add image compress(JPEG)</li>    
     <li>- [ ] Add network code(socket)</li>
-    <li>- [ ] 변경데이터 전송 알고리즘 구상</li>
+    <li>- [ ] Plan the Image Transmission</li>
     <li>- [ ] Boost asio 또는 iocp </li>
     <li>- [ ] SIMD compare </li>
-    <li>- [ ] ★현재 CPU로 연산하여 이미지를 얻지만 OpenGL기반으로 gpu를 이용하여 구현해 보기 </li>
+    <li>- [ ] Capture screen based OpenGL </li>
   </ul>
 </p>
 
-## Sample
+## Sample demo
 ![gif6](https://user-images.githubusercontent.com/19161231/50547144-9a3f6c00-0c77-11e9-90c4-f5cca7644c9b.gif)
 
 
