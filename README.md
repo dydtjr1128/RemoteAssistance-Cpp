@@ -3,6 +3,9 @@ RemoteAssistance like TeamViewer C++ version
 
 https://dydtjr1128.github.io/RemoteAssistance-Cpp/
 
+It also made java swing version => [Link](https://github.com/dydtjr1128/RemoteAssistance-JAVA)
+
+
 ## ToDo
 
 <p>
@@ -33,15 +36,12 @@ Client <-> Broker server(Session) <-> Client
 ![image](https://user-images.githubusercontent.com/19161231/54978008-58a62f00-4fe2-11e9-9d9a-df5b42e840ca.png)
 ![image](https://user-images.githubusercontent.com/19161231/54977978-3d3b2400-4fe2-11e9-808a-08f9a3d4cad9.png)
 
-## 이미지 전송 알고리즘 구상 방안
+## A Plan about the Image Transmission Algorithm
 
 <p>
   <img src="https://user-images.githubusercontent.com/19161231/48710631-5440c280-ec4c-11e8-9808-39203fa8d10b.png" width="50%">
 </p>
-이 경우 비교 방법 등도 고려 해야함 (SIMD 등 사용?)
-
-
-
+This case must be considered comparison process(like SIMD..)
 
 </br> 
 <a href="mailto:dydtjr1994@gmail.com" target="_blank">
