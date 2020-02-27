@@ -14,7 +14,7 @@ It also made java swing version => [Link](https://github.com/dydtjr1128/RemoteAs
     <li>- [x] Double buffering</li>
     <li>- [ ] Add network code(socket)</li>
     <li>- [ ] Plan the Image Transmission</li>
-    <li>- [ ] Boost asio 또는 iocp </li>
+    <li>- [ ] Boost asio 또는 IOCP </li>
     <li>- [ ] SIMD compare </li>
     <li>- [ ] Capture screen based OpenGL </li>
   </ul>
@@ -40,6 +40,12 @@ Client <-> Broker server(Session) <-> Client
 <p>
   <img src="https://user-images.githubusercontent.com/19161231/48710631-5440c280-ec4c-11e8-9808-39203fa8d10b.png" width="50%">
 </p>
+
+1. Unconditionally Full Data Transfer
+2. Compare with previous data and transfer if different
+3. Import data from random locations, compare with previous data, and transfer if different
+4. Divide image data into grid and compare each grid in parallel
+
 This case must be considered comparison process(like SIMD..)
 
 </br> 
