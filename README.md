@@ -5,6 +5,7 @@ https://dydtjr1128.github.io/RemoteAssistance-Cpp/
 
 It also made java swing version => [Link](https://github.com/dydtjr1128/RemoteAssistance-JAVA)
 
+This version is only implemented up to local mirroring, which has not yet used network.
 
 ## ToDo
 
